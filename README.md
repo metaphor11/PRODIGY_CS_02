@@ -18,9 +18,7 @@ This is a simple image encryption tool implemented in Python using the Pillow li
 
 First, ensure you have Python 3.x installed on your system. Then, install the Pillow library using pip:
 
-```sh
-pip install pillow
-```
+'pip install pillow'
 
 ## Usage
 
