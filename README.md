@@ -1,3 +1,5 @@
+Certainly! Here is a sample `README.md` file for the image encryption tool:
+
 ```markdown
 # Simple Image Encryption Tool
 
@@ -18,7 +20,9 @@ This is a simple image encryption tool implemented in Python using the Pillow li
 
 First, ensure you have Python 3.x installed on your system. Then, install the Pillow library using pip:
 
-'pip install pillow'
+```sh
+pip install pillow
+```
 
 ## Usage
 
