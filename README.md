@@ -1,6 +1,3 @@
-Certainly! Here is a sample `README.md` file for the image encryption tool:
-
-```markdown
 # Simple Image Encryption Tool
 
 This is a simple image encryption tool implemented in Python using the Pillow library. The tool performs basic encryption by manipulating pixel values of the image.
